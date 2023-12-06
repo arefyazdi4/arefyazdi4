@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ###
     
-<p align="center">
+<p align="left">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=python,docker,git,linux,fastapi,django,gitlab,postgres,redis,mongo,nginx&perline=4" />
 </a>
