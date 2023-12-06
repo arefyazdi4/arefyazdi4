@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <div align="center">
     
-<img src="https://github-readme-stats.vercel.app/api?username=arefyazdi4&count_private=true&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=arefyazdi4&count_private=true&show_icons=true&theme=radical&card_width=320">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arefyazdi4&layout=compact&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arefyazdi4&layout=compact&theme=radical&card_width=320">
 
 </div>
 
