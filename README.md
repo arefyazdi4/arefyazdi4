@@ -18,19 +18,16 @@ Here are some ideas to get you started:
     
 </div>
 
-###
 
 <div align="center">
 [![Aref Yazdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=arefyazdi4&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-###
 
 <div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arefyazdi4&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-###
     
 <p align="center">
 <a href="https://skillicons.dev">
