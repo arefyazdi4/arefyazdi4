@@ -24,12 +24,9 @@ Here are some ideas to get you started:
     
 <img src="https://github-readme-stats.vercel.app/api?username=arefyazdi4&count_private=true&show_icons=true&theme=radical">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arefyazdi4&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arefyazdi4&layout=compact&theme=radical">
 
-
-[![Aref Yazdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=arefyazdi4&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arefyazdi4&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ###
     
