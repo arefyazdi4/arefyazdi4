@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </div>
 ###
 
-[![Aref Yazdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=arefyazdi4f&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Aref Yazdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=arefyazdi4&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ###
