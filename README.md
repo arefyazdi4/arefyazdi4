@@ -29,7 +29,11 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arefyazdi4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
 <!-- <img src="https://streak-stats.demolab.com?user=arefyazdi4&locale=en&mode=weekly&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
 </div>
-    
+###
+
+[![Aref Yazdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=arefyazdi4f&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ###
     
 <p align="center">
