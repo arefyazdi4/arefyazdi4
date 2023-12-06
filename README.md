@@ -23,3 +23,11 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arefyazdi4&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+###
+    
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,docker,git,linux,fastapi,django,pytest,postgres,redis,elasticsearch,MongoDB,nginx&perline=8" />
+</a>
+</p>
