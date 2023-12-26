@@ -17,17 +17,19 @@ Here are some ideas to get you started:
 -    <br>
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Git](https://img.shields.io/badge/git-%2300f.svg?style=for-the-badge&logo=git&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
-[![Loran Yousef's GitHub stats](https://github-readme-stats.vercel.app/api?username=arefyazdi4&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arefyazdi4&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-###
-    
 <p align="left">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=python,docker,git,linux,fastapi,django,gitlab,postgres,redis,mongo,nginx&perline=12" />
 </a>
 </p>
+
+
+[![Aref Yazdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=arefyazdi4&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arefyazdi4&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+###
+<!--    
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Git](https://img.shields.io/badge/git-%2300f.svg?style=for-the-badge&logo=git&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+-->
